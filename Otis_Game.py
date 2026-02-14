@@ -1,5 +1,7 @@
 import pygame
-#valentines
+#Your almost there! Happy Valentines babe!
+# Love you so much <3
+
 #game variables
 TILE_SIZE = 32
 GAME_WIDTH = 1280
