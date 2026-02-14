@@ -286,7 +286,7 @@ def draw():
     WIN.blit(background_image, (0, 0))
     #uncomment to check player boundaries
     #pygame.draw.rect(WIN, "blue", otis)
-    pygame.draw.rect(WIN, "green", basha)
+    # pygame.draw.rect(WIN, "green", basha)
     otis.update_image()
     WIN.blit(otis.image, otis)
     #uncomment to see tiles
